@@ -1,0 +1,17 @@
+body {
+    background-color: blueviolet;background-image: url(b444.png);
+}
+
+h1 {
+    text-align: center;color: yellow;text-decoration:underline;box-sizing: border-box;
+}
+
+img {
+    border:dashed;border-color :black;padding:12;margin: 8px;background-color:yellow;
+
+}
+
+div {
+    font-size:50;
+
+ 
